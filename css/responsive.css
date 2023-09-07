@@ -1,0 +1,34 @@
+@media screen and (max-width: 768px) {
+    .row1 {
+        text-align: center;
+    }
+
+    .img-mn img {
+        margin-bottom: 5rem;
+    }
+
+    .contact {
+        padding-left: 0px;
+        text-align: center;
+    }
+
+    .input .submit {
+        margin-bottom: 10px;
+    }
+
+    .foot {
+        text-align: center;
+    }
+    .foot2 li a {
+        margin-left: 0px;
+    }
+    .img-mn img {
+        margin-top: 10px;
+    }
+}
+
+@media screen and (max-width: 1200px) {
+.sm-img img{
+  gap: 100px;
+    }
+}
